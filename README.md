@@ -53,7 +53,7 @@ With a `[10, 0, 0]` as a translation vector, the file will be downloaded and tra
 ```obj
 v 11  1  1
 v 11  0  1
-v 20 10 10
+v 12 10 10
 ```
 
 > ⚠️ The transformed file should not alter the original file! ⚠️
